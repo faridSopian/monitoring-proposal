@@ -13,7 +13,7 @@ Web ini diperuntukan untuk instansi di Tata Usaha Fakultas Sains dan Teknologi U
 
 - git clone https://github.com/faridSopian/monitoring-proposal.git
 - php artisan migrate
-- php php artisan db:seed
+- php artisan db:seed --class=UsersTableSeeder
 - php artisan serve
 
 User Seed to Use:
