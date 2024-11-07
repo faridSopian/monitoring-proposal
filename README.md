@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Web Monitoring Proposal Project
+## Web Monitoring Proposal Project (Laravel 9.52.16)
 
 Web ini diperuntukan untuk instansi di Tata Usaha Fakultas Sains dan Teknologi UIN Jakarta. Dan dibuat sepenuhnya oleh Farid Muhammad Sopian mahasiswa Teknik Informatika di UIN Jakarta yang sekarang sedang menempuh semester 7. Untuk menjalankan aplikasi ini adalah sebagai berikut:
 
